@@ -1,0 +1,21 @@
+{
+  "name": "eula_analyzer",
+  "version": "1.0.0",
+  "description": "A simple Chrome extension that analyzes EULA.",
+  "main": "contentScript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.96.1",
+    "webpack-bundle-analyzer": "^4.10.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "@google-cloud/secret-manager": "^5.6.0",
+    "compromise": "^14.10.0",
+    "openai": "^4.76.3"
+  }
+}
