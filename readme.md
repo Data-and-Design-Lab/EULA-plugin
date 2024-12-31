@@ -1,5 +1,4 @@
-# Sms Spoof Detector
-
+# EULA Plugin
 [![Python Version][npm-image]][npm-url]
 [![FastAPI Version][node-image]][node-url]
 [![Scikit Version][openai-image]][openai-url]
